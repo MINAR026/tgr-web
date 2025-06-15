@@ -1,0 +1,194 @@
+[
+    {
+      "id": 1,
+      "title": "Bangla",
+      "name": "গরু গোস্ত ",
+      "price": 8.99,
+      "image": "/image/goru.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 2,
+      "title": "Bangla",
+      "name": "ভাত",
+      "price": 9.99,
+      "image": "/image/vat.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 3,
+      "title": "Bangla",
+      "name": "চিংড়ি",
+      "price": 10.99,
+      "image": "/image/chingri.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 4,
+      "title": "Bangla",
+      "name": "মলা মাছ",
+      "price": 23.99,
+      "image": "/image/molacutomas.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 5,
+      "title": "Bangla",
+      "name": "সবজি",
+      "price": 3.99,
+      "image": "/image/shobji.jpg",
+      "type": "Bangla"
+    },
+    
+    
+    
+    
+    
+    {
+      "id": 6,
+      "title": "Bangla",
+      "name": "ভাজি",
+      "price": 19.99,
+      "image": "/image/Vaji.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 7,
+      "title": "Indian",
+      "name": "ইন্ডিয়ান হায়দ্রাবাদী বিরিয়ানির",
+      "price": 15.99,
+      "image": "/image/setmenu.jpg",
+      "type": "Indian"
+    },
+    {
+      "id": 8,
+      "title": "Indian",
+      "name": "ইন্ডিয়ান হায়দ্রাবাদি মাটন বিরিয়ানি",
+      "price": 7.99,
+      "image": "/image/indian matoon biriyani.jpg",
+      "type": "Indian"
+    },
+    {
+      "id": 9,
+      "title": "Chines",
+      "name": "Set Menu",
+      "price": 7.99,
+      "image": "/image/chines set menu.jpg",
+      "type": "Chines"
+    },
+    {
+      "id": 10,
+      "title": "Chines",
+      "name": "Chines",
+      "price": 8.99,
+      "image": "/image/chines.jpg",
+      "type": "Chines"
+    },
+    {
+      "id": 11,
+      "title": "Chines",
+      "name": "Fried rice",
+      "price": 13.99,
+      "image": "/image/friedrice.jpg",
+      "type": "Chines"
+    },
+
+
+
+ 
+
+
+    {
+      "id": 12,
+      "title": "Chines",
+      "name": "চাইনিজ ভেজিটেবল রেসিপি",
+      "price": 83.99,
+      "image": "/image/chinesvegetable.jpg",
+      "type": "Chines"
+    },
+    {
+      "id": 13,
+      "title": "Desserts",
+      "name": "জর্দা",
+      "price": 66.99,
+      "image": "/image/desert1.jpg",
+      "type": "Desserts"
+    },
+
+    
+    
+   
+   
+    
+    
+    
+
+    {
+      "id": 14,
+      "title": "Desserts",
+      "name": " ",
+      "price": 56.99,
+      "image": "/image/desert2.jpg",
+      "type": "Desserts"
+    },
+    
+    {
+      "id": 15,
+      "title": "Thai",
+      "name": "Thai Soup",
+      "price": 9.99,
+      "image": "/image/thaisoup.jpg",
+      "type": "Thai"
+    },
+    {
+      "id": 16,
+      "title": "Thai",
+      "name": "Vegetable soup",
+      "price": 9.99,
+      "image": "/image/vsoup.jpg",
+      "type": "Thai"
+    },
+   
+     
+    {
+      "id": 17,
+      "title": "Bangla",
+      "name": " ছোট মাছ",
+      "price": 9.99,
+      "image": "/image/cutomas (2).jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 18,
+      "title": "Bangla",
+      "name": "গরুর কাচ্চি",
+      "price": 3.99,
+      "image": "/image/goru kcahii.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 19,
+      "title": "Bangla",
+      "name": "ইলিশ মাছ",
+      "price": 3.99,
+      "image": "/image/elish mas.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 20,
+      "title": "Bangla",
+      "name": "মোরগ পোলাও",
+      "price": 3.99,
+      "image": "/image/murog polaw.jpg",
+      "type": "Bangla"
+    },
+    {
+      "id": 21,
+      "title": "Desserts",
+      "name": "ফালুদা",
+      "price": 3.99,
+      "image": "/image/faluda.jpg",
+      "type": "Desserts"
+    }
+  ]
+  
