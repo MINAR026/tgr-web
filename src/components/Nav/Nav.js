@@ -37,6 +37,16 @@ const Nav = () => {
        "  mx-1 text-white-600 font-medium font-bold   p-0 lg:text-white   ";
      const navItem = (
        <>
+         <li className="nav-item p-2 list-none">
+           <NavLink
+             onClick={() => setIsOpen(false)}
+             className="btn btn-warning font-bold"
+             to="https://minar026.github.io/tulippanda-webproject/"
+             target='_blank'
+           >
+             Tulip Panda
+           </NavLink>
+         </li>
          <li className="nav-item p-2 list-none 	">
            <NavLink
              onClick={() => setIsOpen(false)}
