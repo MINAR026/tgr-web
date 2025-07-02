@@ -40,8 +40,8 @@ const Nav = () => {
          <li className="nav-item p-2 list-none">
            <NavLink
              onClick={() => setIsOpen(false)}
-             className="btn btn-warning font-bold"
-             to="https://minar026.github.io/tulippanda-webproject/"
+              className="btn bg-orange-500 hover:bg-pink-600 text-white font-bold"
+             to="tulippanda.html"
              target='_blank'
            >
              Tulip Panda
